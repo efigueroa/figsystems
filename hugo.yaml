@@ -30,12 +30,12 @@ params:
   defaultTheme: auto # dark, light
   disableThemeToggle: false
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/efigueroa/figsystems/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
@@ -95,8 +95,8 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
+    URL: "https://github.com/efigueroa/figsystems/tree/main/content"
+    Text: "Suggest A Change" # edit text
     appendFilePath: true # to append file path to Edit link
 
   # for search
