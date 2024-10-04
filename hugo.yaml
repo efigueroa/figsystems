@@ -1,4 +1,4 @@
-baseURL: "https://website.fig.systems/"
+baseURL: "https://blog.fig.systems/"
 title: Fig.Systems
 paginate: 5
 theme: PaperMod
