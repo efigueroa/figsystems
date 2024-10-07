@@ -1,9 +1,12 @@
-+++
-title = 'RSS - Still Alive'
-date = 2024-10-05T21:00:05-07:00
-tags = ['rss','selfhosted']
-categories = ['selfhosted']
-+++
+---
+title: "RSS - Still Alive"
+date: "2024-10-05"
+tags: 
+  - rss
+  - selfhosted
+categories: 
+  - selfhosted
+---
 
 # RSS - Still Very Useful
 
