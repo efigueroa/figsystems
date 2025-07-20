@@ -1,5 +1,5 @@
-baseURL: "https://blog.fig.systems/"
-title: Fig.Systems
+baseURL: "https://edfig.dev/"
+title: EdFig.dev
 paginate: 5
 theme: PaperMod
 
@@ -20,8 +20,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Fig.Systems
-  description: "A System of Figs"
+  title: EdDig.dev
+  description: "A blog"
   keywords: [Blog, Portfolio, Linux]
   author: "Eduardo Figueroa"
   # author: ["Me", "You"] # multiple authors
