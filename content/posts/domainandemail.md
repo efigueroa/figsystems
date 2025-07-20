@@ -9,9 +9,9 @@ categories:
 
 # What is this?
 
-Let's say you wanted to buy a domain like `Fig.Systems`. You can host a personal blog at this address. Once you buy the domain not only can you host content but you with a bit more tinkering you can send and receive emails with the domain. 
+Let's say you wanted to buy a domain like `edfig.dev`. You can host a personal blog at this address. Once you buy the domain not only can you host content but you with a bit more tinkering you can send and receive emails with the domain. 
 
-You can email `eddie@fig.systems` or `admin@fig.systems` and that email will make its way to my inbox. You can set up rules to handle specific addresses too. 
+You can email `eddie@edfig.dev` or `admin@edfig.dev` and that email will make its way to my inbox. You can set up rules to handle specific addresses too. 
 
 You'll need to create accounts for the following:
 - Mailgun.com
