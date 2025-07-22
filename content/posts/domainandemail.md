@@ -36,9 +36,9 @@ Email is one of those things you shouldn't host yourself, it's very annoying. Bu
 With Malgun I can:
 - Receive emails at custom email addresses with my domain
 - Route those emails based on rules
-- - e.g. Emails sent to `no-reply@fig.systems` are completely dropped
+- - e.g. Emails sent to `no-rreply@edfig.dev` are completely dropped
 - Send emails AS those email addresses through gmail
-- - Receive an email at `admin@fig.systems` at my regular gmail account and reply as `admin@fig.systems`
+- - Receive an email at `admin@edfig.dev` at my regular gmail account and reply as `admin@fig.systems`
 - Use their API to programmaticaly send emails
 - Use their SMTP servers to send as custom email addresses
 - - My self hosted services send notification emails as `no-reply@fig.systems` or as `service_name@fig.systems`
