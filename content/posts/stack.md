@@ -1,36 +1,38 @@
-+++
-title = 'Self Hosting'
-date = 2024-08-19T10:57:05-07:00
-tags = ['server','selfhosted']
-categories = ['server', 'selfhosted', 'unraid']
-+++
+---
+title: "Self Hosting"
+date: "2024-08-19T10:57:05-07:00"
+tags:
+  - server
+  - unraid
+categories:
+  - selfhosted
+---
 
+This is just a general overview of what I'm running. Updated sporadically, only includes things I'm actively using or have deployed.
 
-This is just a general overview of what I'm running. Updated sporadically, only includes things I'm actively using or have deployed. 
+## Networking
 
-## Networking ##
-
-### In Production ###
+### In Production
 
 * Unifi
     * UDM Pro
     * 3 APs
     * PoE and non-PoE switches
-    * A certain number and variety of cameras
+    * Various cameras
 
-## Services ##
+## Services
+
 Self-hosted:
 
 * NGINX Proxy Manager
-* [Immich](https://photos.fig.systems). Photo Backup. 
+* [Immich](https://photos.fig.systems). Photo Backup.
 * [Paperless-NGX](https://paperless.fig.systems). Document storage
 * [Recipes](https://recipes.fig.systems). Recipes I've saved.
 * [DokuWiki](https://wiki.fig.systems). Personal wiki.
 * [MicroBin](https://bin.fig.systems). "paste bin" share.
-* [FreshRSS](https://feeds.fig.systems). RSS agregator
+* [FreshRSS](https://feeds.fig.systems). RSS aggregator
 * [Forgejo](https://git.fig.systems). Git repos.
 
-## Cloud ##
+## Cloud
 
-Came from an azure shop years ago, current aws. I've had personal items on Oracle and AWS but pulled it all down to this server. 
-
+I came from an Azure shop years ago, currently on AWS. I've had personal projects on Oracle and AWS but pulled everything down to my local server.
