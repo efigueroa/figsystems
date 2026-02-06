@@ -8,6 +8,8 @@ categories:
   - selfhosted
 ---
 
+# NOTE. This has not been updated in a long time. 
+
 This is just a general overview of what I'm running. Updated sporadically, only includes things I'm actively using or have deployed.
 
 ## Networking

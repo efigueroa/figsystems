@@ -73,13 +73,11 @@ params:
     - name: mastodon
       url: "https://mastodon.social/@edfig"
     - name: bluesky
-      url: "https://bsky.app/profile/fig.systems"
+      url: "https://bsky.app/profile/edfig.dev"
     - name: github
       url: "https://github.com/efigueroa"
-    - name: steam
-      url: "https://steamcommunity.com/id/esotericguy/"
     - name: rss
-      url: "https://blog.fig.systems/index.xml"
+      url: "https://edfig.dev/index.xml"
 
   analytics:
     google:
