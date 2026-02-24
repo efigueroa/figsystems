@@ -26,3 +26,21 @@ _ls() {
 }
 
 ```
+
+Turns this 
+```bash
+figsystems on main 
+  11:48 ❯ /usr/bin/ls
+archetypes  content  hugo.yaml  README.md  themes
+```
+to this
+```bash
+figsystems on main 
+  11:48 ❯ ls
+Permissions Size Date Modified Git Git Repo Name
+drwxr-xr-x@ 1.1k  5 Feb 14:18   -- - -       archetypes
+drwxr-xr-x@  70k  5 Feb 14:18   -- - -       content
+.rw-r--r--@ 3.4k  5 Feb 15:57   -- - -       hugo.yaml
+.rw-r--r--@  237  5 Feb 14:18   -- - -      󰂺 README.md
+drwxr-xr-x@    0  5 Feb 14:18   -- - -       themes
+```
