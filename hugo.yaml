@@ -28,7 +28,7 @@ params:
   BookSection: docs
   BookDateFormat: "January 2, 2006"
   BookComments: false
-  BookEditLink: 'https://github.com/efigueroa/figsystems/edit/main/content/{{ .Path }}'
+  
 
 menu:
   before:
